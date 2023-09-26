@@ -48,6 +48,8 @@ this into your own projects depends, but you are at least expected to be familia
 
 2. Create a [github](https://github.com/) account if you do not already have one.
 
+Dummy change 2
+
 3. To make sure that we do not have to type in our github username every time that we want to do some changes,
     we can once and for all set them on our local machine
 

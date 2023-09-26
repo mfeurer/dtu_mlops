@@ -151,3 +151,4 @@ Gemfile.lock
 
 # js
 node_modules/
+/data
