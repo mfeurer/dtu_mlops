@@ -46,6 +46,8 @@ this into your own projects depends, but you are at least expected to be familia
     that your installation is working by writing `git help` in a terminal and it should show you the help message for
     git.
 
+    Dummy change
+
 2. Create a [github](https://github.com/) account if you do not already have one.
 
 3. To make sure that we do not have to type in our github username every time that we want to do some changes,
