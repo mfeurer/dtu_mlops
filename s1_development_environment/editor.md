@@ -33,7 +33,7 @@ Below you see an overview of the vs code interface
 The main components of VS code are:
 
 * The action bar: VS code is not an editor meant for a single language and can do many things. One of the core reasons
-    that VC code have become so popular is that custom plug-ins called **extensions** can be installed to add
+    that VS code have become so popular is that custom plug-ins called **extensions** can be installed to add
     functionality to VS code. It is in the action bar that you can navigate between these different applications
     when you have installed them.
 
