@@ -284,4 +284,4 @@ https://github.dev/username/repository
 
 Try it out on your newly created repository.
 
-This is just for Testing purposes
+Yes really give it a try. You can only learn it by doing it.
