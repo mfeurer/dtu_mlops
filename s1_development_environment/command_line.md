@@ -39,7 +39,7 @@ when trying to execute a command, there are several parts to it:
     such as in the case of the above image it is also showing the current `conda` environment.
 2. The **command** is the actual command you want to execute. For example, `ls` or `cd`
 3. The **options** are additional arguments that you can pass to the command. For example, `ls -l` or `cd ..`.
-4. The **arguments** are the actual arguments that you pass to the command. For example, `ls -l figures` or `cd ..`.
+4. The **arguments** are the actual arguments that you pass to the command. For example, 'ls-a', `ls -l figures` or `cd ..`.
 
 The core difference between options and arguments is that options are optional, while arguments are not.
 
